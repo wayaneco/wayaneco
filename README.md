@@ -21,9 +21,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/wayaneco&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/wayaneco)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/wayaneco)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/wayaneco)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/wayaneco)  
