@@ -1,10 +1,7 @@
 ### Hi there 👋, Hi ! I'm Wayan Danyael
 #### A Software Engineer
-![A Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: ***REACTJS / JS / HTML / CSS / TYPESCRIPT / MATERIAL-UI / REDUX / BOOTSTRAP / BULMA***
 
 - 🔭 I’m currently working on Metrobank 
 - 🌱 I’m currently learning React Native 
