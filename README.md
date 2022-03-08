@@ -1,7 +1,9 @@
-### Hi there 👋, Hi ! I'm Wayan Danyael
-#### A Software Engineer
+### Hi there 👋...
+- ⚡ There's no elevator to success, take the stairs. ~Zig Ziglar
+- ⛩ Shoshin 💻 Mushin 🏍 Fudoshin 👓 Zanshin
 
-Skills: ***REACTJS / JS / HTML / CSS / TYPESCRIPT / MATERIAL-UI / REDUX / BOOTSTRAP / BULMA***
+[(☞ﾟヮﾟ)☞ NINJA WAY OF LIFE](https://framework.zend.com/participate/code-manifesto) 
 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+![GitHub](https://img.shields.io/github/followers/postnzt?color=1c1c1c&label=followers&logo=github&style=for-the-badge)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-1c1c1c?style=for-the-badge)](https://jhunecarlotrogelio.xyz)
+<p><img src="https://github-readme-stats.vercel.app/api?username=postnzt&show_icons=true&icon_color=eee&theme=vue-dark&count_private=true">
